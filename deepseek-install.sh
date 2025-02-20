@@ -17,5 +17,5 @@ echo "neofetch" >> .bashrc
 echo "ollama run deepseek-r1:1.5b" >> .bashrc
 
 
-echo "Running Deepseek"
-ollama run deepseek-r1:1.5b
+echo "Restarting Raspberry Pi"
+sudo reboot now
